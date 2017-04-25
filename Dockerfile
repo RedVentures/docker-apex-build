@@ -12,4 +12,6 @@ RUN set -exu && \
   ./install.sh && \
   rm install.sh
 
+ENV PATH = $PATH:/usr/local/go/bin
+
 
