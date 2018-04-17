@@ -3,6 +3,6 @@
 Docker image for all our apex builds and deploys
 
 ## Stuff installed
-- nodejs 6.10.2
-- go 1.8.1
-- apex 0.13.1
+- nodejs 8.11.1
+- go 1.10.1
+- apex 1.0.0-rc2
